@@ -2,114 +2,142 @@
 
 <!--
 **jaswindersingh1903/jaswindersingh1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose Labs
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-Here are some ideas to get you started:
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Building Robots to ease opertations",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1376-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C064%20hrs%209%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/De%20Hello%20World%2C%20j%27ai%20%C3%A9crit-2.8%20million%20Lignes%20de%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1005-blue)
 
-**🐱 Mes données GitHub** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
-> 🏆 500 contributions en 2020
+**🐱 My GitHub Data** 
+
+> 🏆 678 Contributions in the Year 2022
  > 
-> 📦 0 Bytes utilisés dans le stockage de GitHub 
+> 📦 171.8 kB Used in GitHub's Storage 
  > 
-> 💼 A choisi d'embaucher
+> 🚫 Not Opted to Hire
  > 
-> 📜 27 référentiels publics
+> 📜 20 Public Repositories 
  > 
-> 🔑 0 référentiel privé 
+> 🔑 23 Private Repositories  
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Matin      70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
-🌆 Jour       147 commits    ████████░░░░░░░░░░░░░░░░░   32.17% 
-🌃 crépuscule 129 commits    ███████░░░░░░░░░░░░░░░░░░   28.23% 
-🌙 Nuit       111 commits    ██████░░░░░░░░░░░░░░░░░░░   24.29%
+🌞 Morning    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
+🌆 Daytime    332 commits    ██████████░░░░░░░░░░░░░░░   41.97% 
+🌃 Evening    260 commits    ████████░░░░░░░░░░░░░░░░░   32.87% 
+🌙 Night      118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.92%
 
 ```
-📅 **Je suis le plus productif dimanche** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Lundi        64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Mardi        64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Mercredi     51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
-Jeudi        64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Vendredi     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
-samedi       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-dimanche     103 commits    █████░░░░░░░░░░░░░░░░░░░░   22.54%
-
-```
-
-
-📊 **Cette semaine, je passe mon temps** 
-
-```text
-⌚︎ fuseau horaire: Asia/Kolkata
-
-💬 Langages de programmation: 
-JavaScript               8 hrs 10 mins       ██████████████░░░░░░░░░░░   56.72% 
-Dart                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
-Java                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
-YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
-
-🔥 Éditeurs de code: 
-WebStorm                 9 hrs 13 mins       ████████████████░░░░░░░░░   64.07% 
-Android Studio           5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.88% 
-PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
-
-🐱‍💻 projets: 
-airline-module           6 hrs 51 mins       ████████████░░░░░░░░░░░░░   47.59% 
-invoice_app              2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-E-Invoice Verify         1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
-cable_socket             1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
-invoice_app_1            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.39%
-
-💻 système opérateur: 
-Windows                  14 hrs 24 mins      █████████████████████████   100.0%
+Monday       116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
+Tuesday      90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
+Wednesday    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
+Thursday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Friday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Saturday     119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
+Sunday       156 commits    █████░░░░░░░░░░░░░░░░░░░░   19.72%
 
 ```
 
-**Je code principalement dans Vue** 
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-Vue                      8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-Java                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Vue.js                   22 hrs              ████████████████░░░░░░░░░   66.91% 
+JavaScript               7 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.63% 
+Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
+JSON                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
+protobuf                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
+
+🔥 Editors: 
+WebStorm                 32 hrs 54 mins      █████████████████████████   99.99% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+
+💻 Operating System: 
+Mac                      32 hrs 54 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               33 repos            ████████████░░░░░░░░░░░░░   49.25% 
+Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
 
 ```
 
 
 
+ Last Updated on 06/11/2022 02:19:19 UTC
 <!--END_SECTION:waka-->
 
-```mermaid
-flowchart TB
-    subgraph ROR_agent
-    m1[RoR Modbus Server]
-    m2[RoR Modbus Client]
-    end
-    subgraph FSM_AGENT
-    m2 --> m3[FSM Modbus Server]
-    m4[FSM Modbus Client] -->m1
-    end
-```
----
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
-- hello
-- world
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI2NjU1ODI4OCwtMTU1MDQ0NTAwOSwtMT
+YyMTcyNTA5XX0=
+-->
