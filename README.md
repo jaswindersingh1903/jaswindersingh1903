@@ -1,143 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jaswinder Singh</h1>
+<h3 align="center">A passionate Software Engineer from Canada</h3>
 
-<!--
-**jaswindersingh1903/jaswindersingh1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose Labs
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswindersingh1903&label=Profile%20views&color=0e75b6&style=flat" alt="jaswindersingh1903" /> </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaswindersingh1903" alt="jaswindersingh1903" /></a> </p>
 
-### 📫 Like to meet me?
+- 🔭 I’m currently working on [Xello](https://xello.world/en-ca/)
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+- 🌱 I’m currently learning **Ionic**
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+- 💬 Ask me about **PHP,Laravel,Angular**
 
-👇 Hit in your console or terminal to connect with me.
+- 📫 How to reach me **Jaswindersingh1903@gmail.com**
 
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/devjaswindersingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devjaswindersingh/" height="30" width="40" /></a>
+</p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building Robots to ease opertations",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaswindersingh1903&show_icons=true&locale=en" alt="jaswindersingh1903" /></p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C064%20hrs%209%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1005-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 678 Contributions in the Year 2022
- > 
-> 📦 171.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 23 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
-🌆 Daytime    332 commits    ██████████░░░░░░░░░░░░░░░   41.97% 
-🌃 Evening    260 commits    ████████░░░░░░░░░░░░░░░░░   32.87% 
-🌙 Night      118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.92%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-Tuesday      90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
-Wednesday    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
-Thursday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Friday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Saturday     119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
-Sunday       156 commits    █████░░░░░░░░░░░░░░░░░░░░   19.72%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Vue.js                   22 hrs              ████████████████░░░░░░░░░   66.91% 
-JavaScript               7 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.63% 
-Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
-JSON                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
-protobuf                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
-
-🔥 Editors: 
-WebStorm                 32 hrs 54 mins      █████████████████████████   99.99% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
-
-💻 Operating System: 
-Mac                      32 hrs 54 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            ████████████░░░░░░░░░░░░░   49.25% 
-Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
-
-```
-
-
-
- Last Updated on 06/11/2022 02:19:19 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjU1ODI4OCwtMTU1MDQ0NTAwOSwtMT
-YyMTcyNTA5XX0=
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswindersingh1903&" alt="jaswindersingh1903" /></p>
