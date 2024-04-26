@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaswindersingh1903" alt="jaswindersingh1903" /></a> </p>
 
-- 🔭 I’m currently working on [Xello](https://xello.world/en-ca/)
+- 🔭 I’m currently working fulltime at [Loom Analytics](https://www.loomanalytics.com/)
 
-- 🌱 I’m currently learning **Ionic**
+- 🌱 My tech Stack is **ReactJS/Node/MongoDB/PHP/MYSQL**
 
-- 💬 Ask me about **PHP,Laravel,Angular**
+- 💬 Ask me about **PHP,Laravel,Angular,React,Node,PHP,MYSQL,MongoDB**
 
 - 📫 How to reach me **Jaswindersingh1903@gmail.com**
 
